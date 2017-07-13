@@ -1,0 +1,3 @@
+name: GameEngine
+version: ${project.version}
+main: repo.binarydctr.gameengine.GameEngine
